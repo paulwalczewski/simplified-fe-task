@@ -6,8 +6,9 @@ For example, it could be a star was characters search app, which gets results fr
 
 App should consist of:
 
-- 1 page with search input and search results; results should be clickable;
-- 1 page with single result's details;
+- 1 page with search input and search results (results should be clickable and open a new page with result details);
+- 1 page with single result details;
+  
 Pagination on search results is not required.
 
 Keep the visual/css layer simple, focus on the code quality.
