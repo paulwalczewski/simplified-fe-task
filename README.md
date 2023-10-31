@@ -2,7 +2,7 @@
 
 Using any React meta framework of your choice (f.e NextJS), prepare a simple app which will allow searching trough API's results. You can use any free API of your choice (check https://github.com/public-apis/public-apis) to search through anything you find interesting.
 
-For example, it could be a star was characters search app, which gets results from this API: https://swapi.dev/documentation
+For example, it could be a Star Wars characters search app, which gets results from this API: https://swapi.dev/documentation
 
 App should consist of:
 
